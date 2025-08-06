@@ -1,5 +1,5 @@
 # 🗿 About Me:
-### Hi there 👋 I'm a MERN Stack Developer<br><br>🔭 🔭 Currently building full-stack apps with MongoDB, Express.js, React, and Node.js  <br>🌱 Learning TypeScript and exploring Next.js  <br> 🌍 Open to collaboration on MERN projects  <br>💬 Ask me about JavaScript, React, or building REST APIs  <br>⚡ Fun fact: I love turning ideas into clean, interactive web apps<br>
+### Hi there 👋 I'm a MERN Stack Developer<br><br>🔭 Currently building full-stack apps with MongoDB, Express.js, React, and Node.js  <br>🌱 Learning TypeScript and exploring Next.js  <br> 🌍 Open to collaboration on MERN projects  <br>💬 Ask me about JavaScript, React, or building REST APIs  <br>⚡ Fun fact: I love turning ideas into clean, interactive web apps<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alirezaghanbari.dev@gmail.com) 
